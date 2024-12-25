@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E++yJ+uKxXE=",
+  "dgSpecHash": "1YaU/xgkKkI=",
   "success": true,
-  "projectFilePath": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Expense Tracker.csproj",
+  "projectFilePath": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Expense Tracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tohka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tohka\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

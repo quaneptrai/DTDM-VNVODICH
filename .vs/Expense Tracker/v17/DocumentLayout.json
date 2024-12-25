@@ -1,25 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\expensetracker\\DTDM-VNVODICH\\",
+  "WorkspaceRootPath": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\expensetracker\\dtdm-vnvodich\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\expensetracker\\dtdm-vnvodich\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\expensetracker\\dtdm-vnvodich\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\expensetracker\\dtdm-vnvodich\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\expensetracker\\dtdm-vnvodich\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\tohka\\downloads\\compressed\\clone\\dtdm-vnvodich\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,19 +50,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:12:04.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:11:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Models\\Category.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:11:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:11:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:39:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\appsettings.json",
-              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
-              "ToolTip": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\appsettings.json",
-              "RelativeToolTip": "Expense Tracker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T08:39:41.729Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:39:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Expense Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:10:28.463Z",
               "EditorCaption": ""
             },
             {
@@ -51,52 +149,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:39:33.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:39:33.988Z",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\appsettings.json",
+              "RelativeToolTip": "Expense Tracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T08:39:41.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:39:33.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
-              "ToolTip": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tohka\\Downloads\\Compressed\\clone\\DTDM-VNVODICH\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T08:39:33.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\expensetracker\\DTDM-VNVODICH\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:39:33.994Z"
             }
           ]
         }
